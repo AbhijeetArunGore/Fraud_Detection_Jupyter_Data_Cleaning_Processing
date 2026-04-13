@@ -7,8 +7,8 @@ __pycache__/
 data/*.csv
 data/*.zip
 
-# Model files
-models/*.pkl
+# Model files (Small enough to push)
+# models/*.pkl
 
 # Environment files
 .env
